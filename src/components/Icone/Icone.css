@@ -1,0 +1,15 @@
+.container-icon{
+    width: 40%;
+    height: 40px;
+    padding-left: 10px;
+    display:flex;
+    justify-content: start;
+    align-items: center;
+
+    
+}
+.container-icon svg{
+    border-radius: 100px;
+    background-color: rgba(66, 66, 88, 0.349);
+}
+

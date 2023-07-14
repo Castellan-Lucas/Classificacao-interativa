@@ -1,0 +1,21 @@
+.container-card{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    background-color: rgb(37, 37, 53);
+    border-radius: 25px;
+    padding: 20px;
+}
+.container-notas{
+    height: auto;
+    position: relative;
+    top: 50px;
+}
+.container-car2{
+    width: 300px;
+    height: 285px;
+    position: relative;
+    background-color: rgb(37, 37, 53);
+    border-radius: 25px;
+   
+}
